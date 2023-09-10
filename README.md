@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on writing tech guides, GitHub Actions and DevContainers
+- 🌱 I’m currently lookig forward to learn ML, Rust and Go
+- 👯 I’m looking to collaborate on Open Source projects
+- 💬 Ask me about Java, Spring and Typescript
+- ⚡ Fun fact: avid TLOZ and OP fan
+
 <!--
 **prulloac/prulloac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
