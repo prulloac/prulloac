@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on Open Source projects
 - 💬 Ask me about Java, Spring and Typescript
 - ⚡ Avid The Legend of Zelda and One Piece fan
-- 🦉 Certified GCP Professional Cloud Architect
+- 🦉 Certified GCP Professional Cloud Architect and Professional Cloud Developer
 
 #### My Stack
 
