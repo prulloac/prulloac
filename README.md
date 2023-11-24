@@ -10,7 +10,7 @@
 
 - Java with Spring and Apache Beam for daily working hours
 - GCP wilderness
-- Terraform, Jenkins and GitHub Actions for CI/CD 
+- Jenkins and GitHub Actions for CI/CD 
 - Node, Ruby and Go for personal small projects
 - Devcontainers and Docker for ready-to-go dev environments
 
