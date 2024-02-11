@@ -1,3 +1,7 @@
+![](https://komarev.com/ghpvc/?username=prulloac&color=brightgreen&abbreviated=true)
+![GitHub followers](https://img.shields.io/github/followers/prulloac)
+![GitHub User's stars](https://img.shields.io/github/stars/prulloac)
+
 #### Hi there 👋
 - 🔭 I’m currently working on writing tech guides, GitHub Actions and DevContainers
 - 🌱 I’m currently lookig forward to learn ML, Rust and Go
@@ -16,7 +20,9 @@
 
 #### GitHub Stats
 
-![prulloac's GitHub stats](https://github-readme-stats.vercel.app/api?username=prulloac&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![prulloac's GitHub stats](https://github-readme-stats.vercel.app/api?username=prulloac&show_icons=true&theme=tokyonight&rank_icon=github)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prulloac&layout=donut&theme=tokyonight&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **prulloac/prulloac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
