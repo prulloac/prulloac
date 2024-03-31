@@ -15,7 +15,7 @@
 - Java with Spring and Apache Beam for daily working hours
 - GCP wilderness
 - Jenkins and GitHub Actions for CI/CD 
-- Node, Ruby and Go for personal small projects
+- TS and Go for personal small projects
 - Devcontainers and Docker for ready-to-go dev environments
 
 #### GitHub Stats
