@@ -3,7 +3,7 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/prulloac)
 
 #### Hi there 👋
-- 🔭 I’m currently working on writing tech guides, GitHub Actions and DevContainers
+- 🔭 I’m currently working on writing tech guides, DevContainers features, my own OAuth2 server, JWT library and expense tracking app
 - 🌱 I’m currently lookig forward to learn ML, Rust and Go
 - 👯 I’m looking to collaborate on Open Source projects
 - 💬 Ask me about Java, Spring and Typescript
@@ -19,6 +19,7 @@
 - Devcontainers and Docker for ready-to-go dev environments
 
 #### GitHub Stats
+[![trophy](https://github-profile-trophy.vercel.app/?username=prulloac&theme=gruvbox&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![prulloac's GitHub stats](https://github-readme-stats.vercel.app/api?username=prulloac&show_icons=true&theme=tokyonight&rank_icon=github)
 
