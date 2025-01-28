@@ -4,7 +4,7 @@
 
 #### Hi there 👋
 - 🔭 I’m currently working on writing tech guides, DevContainers features, my own OAuth2 server, JWT library and expense tracking app
-- 🌱 I’m currently lookig forward to learn ML, Rust and Go
+- 🌱 I’m currently lookig forward to learn ML, Rust, Go and Zig
 - 👯 I’m looking to collaborate on Open Source projects
 - 💬 Ask me about Java, Spring and Typescript
 - ⚡ Avid The Legend of Zelda and One Piece fan
